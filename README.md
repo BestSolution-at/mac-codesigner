@@ -34,9 +34,9 @@ Example:
 ## Prequisits
 
 * Make sure you have xcode command line utilities installed
-```shell script
-sudo xcode-select --install
-```
+  ```shell script
+  sudo xcode-select --install
+  ```
 * Create an "App-Specific password for altool" [Apple Instructions](https://appleid.apple.com) - **Use Safari - Firefox nor Chrome worked for me**
   * Name it `Developer-altool`
   * Save the password created we you need to pass it to as the `--notarization-password`
