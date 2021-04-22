@@ -31,6 +31,20 @@ Example:
  --with-staple
 ```
 
+## Prequisits
+
+* Make sure you have xcode command line utilities installed
+```shell script
+sudo xcode-select --install
+```
+* Create an "App-Specific password for altool" [Apple Instructions](https://appleid.apple.com)
+  * Name it `Developer-altool`
+  * Save the password created we you need to pass it to as the `--notarization-password`
+* Create 2 certificates at [Apple Developer](https://developer.apple.com)
+  * `Developer ID Application`
+  * `Developer ID Installer`
+* Add them to your "KeyChain Access" Application
+
 ## Building
 
 The application can be packaged using:
