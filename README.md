@@ -54,6 +54,8 @@ a native binary so for me it was more of a research project teaching about this 
 Similar utilities:
 * [codesign](https://github.com/txoof/codesign#codesign)
 * [gon](https://github.com/mitchellh/gon)
+* [Eclipse CBI Signing](https://github.com/eclipse-cbi/org.eclipse.cbi/tree/main/webservice/signing/macosx)
+* [Eclipse CBI Notarization](https://github.com/eclipse-cbi/macos-notarization-service)
 
 Sites / Articles I found useful while implementing this:
 * [Stackoverflow Question](https://blog.adoptopenjdk.net/2020/05/a-simple-guide-to-notarizing-your-java-application/)
