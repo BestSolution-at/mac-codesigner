@@ -2,12 +2,15 @@
 
 Commandline utility to not going insane when codesigning and notarizing application for Apple Devices. 
 
+<img width="1691" alt="Bildschirmfoto 2021-04-22 um 18 02 47" src="https://user-images.githubusercontent.com/52631/115746928-0f796280-a395-11eb-9ec8-abe9fd94d591.png">
+
 This utility allows to:
 * Codesign your applications
 * Package as DMG
 * Package as PKG
 * Notarize the DMG and PKG
 * Staple DMG and PKG artifact
+
 
 ## Synopsis
 
