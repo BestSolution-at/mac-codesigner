@@ -45,6 +45,20 @@ sudo xcode-select --install
   * `Developer ID Installer`
 * Add them to your "KeyChain Access" Application
 
+## Acknowledgement
+
+There are other utilities which helped me implement this or provided useful information. One could argue
+that I suffer from the NIH-Syndrom but I found it interesting to get something done with Quarkus and GraalVM to create
+a native binary so for me it was more of a research project teaching about this tech-stack.
+
+Similar utilities:
+* [codesign](https://github.com/txoof/codesign#codesign)
+* [gon](https://github.com/mitchellh/gon)
+
+Sites / Articles I found useful while implementing this:
+* [Stackoverflow Question](https://blog.adoptopenjdk.net/2020/05/a-simple-guide-to-notarizing-your-java-application/)
+* [BlogPost on notarizing Java](https://stackoverflow.com/questions/64652704/how-to-notarize-an-macos-command-line-tool-created-outside-of-xcode)
+
 ## Building
 
 The application can be packaged using:
