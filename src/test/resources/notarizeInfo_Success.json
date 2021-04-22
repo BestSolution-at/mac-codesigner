@@ -1,0 +1,15 @@
+{
+    "tool-version":"4.029.1194",
+    "tool-path":"\/Applications\/Xcode.app\/Contents\/SharedFrameworks\/ContentDeliveryServices.framework\/Versions\/A\/Frameworks\/AppStoreService.framework",
+    "success-message":"No errors getting notarization info.",
+    "notarization-info":{
+        "Status":"success",
+        "Status Message":"Package Approved",
+        "LogFileURL":"https:\/\/osxapps-ssl.itunes.apple.com\/itunes-assets\/......",
+        "Date":"2021-04-22T11:20:56.000Z",
+        "RequestUUID":"11111-11111-11111-11111-1111111",
+        "Status Code":0,
+        "Hash":"1111111111111111111111111111111"
+    },
+    "os-version":"11.2.3"
+}

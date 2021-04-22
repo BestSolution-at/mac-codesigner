@@ -1,0 +1,9 @@
+{
+    "tool-version":"4.029.1194",
+    "tool-path":"\/Applications\/Xcode.app\/Contents\/SharedFrameworks\/ContentDeliveryServices.framework\/Versions\/A\/Frameworks\/AppStoreService.framework",
+    "notarization-upload":{
+        "RequestUUID":"11111-11111-11111-11111-1111111"
+    },
+    "success-message":"No errors uploading '.\/SampleSuccess.dmg'.",
+    "os-version":"11.2.3"
+}
